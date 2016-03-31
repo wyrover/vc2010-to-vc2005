@@ -1,5 +1,5 @@
 Dim lib : Set lib = New LibLoader
-lib.path = "../../lib"
+lib.path = "../lib"
 lib.Import "cactus.vbs"
 
 
